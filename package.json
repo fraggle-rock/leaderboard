@@ -1,0 +1,23 @@
+{
+  "name": "fraggle-rock",
+  "version": "1.0.0",
+  "description": "Leaderboard for games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraggle-rock/leaderboard.git"
+  },
+  "keywords": [
+    "game",
+    "leaderboard"
+  ],
+  "author": "Riyaz NPM <insaneriyaz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraggle-rock/leaderboard/issues"
+  },
+  "homepage": "https://github.com/fraggle-rock/leaderboard#readme"
+}
